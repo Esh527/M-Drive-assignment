@@ -5,8 +5,6 @@ Objective: My task is like to developed is an Personal Notes Manager, which prov
 
 This is a dynamic frontend application built with HTML, CSS, JavaScript, React JS, Node JS and SQL.
 
-## Live Demo 
-[View Live]()
 
 ## Features
 - Responsive Design
