@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #333;
+  color: #fff;
+}
+.nav-links a, .nav-links button {
+  margin: 0 10px;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+.nav-links button {
+  background: none;
+  border: none;
+}
